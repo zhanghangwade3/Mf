@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="app_green">#5CB43C</color>
+    <color name="app_white">#ffffff</color>
+    <color name="app_bg">#EFEEEE</color>
+    <color name="app_line">#E3E3E3</color>
+    <color name="txt_desc">#555555</color>
+    <color name="item_title">#555555</color>
+    <color name="item_desc">#999999</color>
+    <color name="item_content">#555555</color>
+    <color name="transparent">#00000000</color>
+</resources>
